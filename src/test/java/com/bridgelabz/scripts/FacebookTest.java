@@ -1,7 +1,7 @@
 
 /******************************************************************************
  *
- *  Author  Deepali Kalagate
+ *  Author   Sheetal Chaudhari
  *
  *  Purpose: Created Properties for test Facebook login page.
  *  @since   15-01-2020
